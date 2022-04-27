@@ -1,11 +1,8 @@
 # OSP-week7-Homework
-### Author : 2017113812 Suhyung kwon
----
+### Author - Suhyung kwon(2017113812)
 
 ## Version
 Python 3.9.7
-
----
 
 ## Install
 ``` shell
@@ -19,8 +16,6 @@ $ pip install -r requirements.txt
 #execute code
 $ python github-api-test.py
 ```
-
----
 
 ## Usage
 ### github-api-test.py
